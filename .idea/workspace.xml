@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a45ce09-b3b2-47ea-b0ec-a25a96769e4c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Array/643. Maximum Average Subarray I.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/639. Decode Ways II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HashTable/645. Set Mismatch.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Math/640. Solve the Equation.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/646. Maximum Length of Pair Chain.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/650. 2 Keys Keyboard.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HashTable/575. Distribute Candies.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HashTable/594. Longest Harmonious Subsequence.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HashTable/599. Minimum Index Sum of Two Lists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HashTable/648. Replace Words.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Math/598. Range Addition II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trie/648. Replace Words.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Array/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Array/.idea/workspace.xml" />
     </list>
     <ignored path="Leetcode_Solution.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,28 +30,7 @@
     <favorites_list name="Leetcode_Solution" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="640. Solve the Equation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Math/640. Solve the Equation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1005">
-              <caret line="67" column="36" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="639. Decode Ways II.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DynamicProgramming/639. Decode Ways II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="73" column="57" selection-start-line="73" selection-start-column="57" selection-end-line="73" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -78,14 +61,21 @@
         <option value="$PROJECT_DIR$/Array/643. Maximum Average Subarray I.py" />
         <option value="$PROJECT_DIR$/HashTable/645. Set Mismatch.py" />
         <option value="$PROJECT_DIR$/DynamicProgramming/639. Decode Ways II.py" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/646. Maximum Length of Pair Chain.py" />
+        <option value="$PROJECT_DIR$/HashTable/648. Replace Words.py" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/650. 2 Keys Keyboard.py" />
+        <option value="$PROJECT_DIR$/Math/598. Range Addition II.py" />
+        <option value="$PROJECT_DIR$/HashTable/594. Longest Harmonious Subsequence.py" />
+        <option value="$PROJECT_DIR$/HashTable/599. Minimum Index Sum of Two Lists.py" />
+        <option value="$PROJECT_DIR$/HashTable/575. Distribute Candies.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="284" />
+    <option name="x" value="172" />
     <option name="y" value="23" />
     <option name="width" value="1152" />
-    <option name="height" value="661" />
+    <option name="height" value="671" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -140,7 +130,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Tree" />
+              <option name="myItemId" value="Trie" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -154,7 +144,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Stack" />
+              <option name="myItemId" value="Math" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -168,14 +158,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DynamicProgramming" />
+              <option name="myItemId" value="HashTable" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,45 +182,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Trie" />
       <recent name="$PROJECT_DIR$/DynamicProgramming" />
       <recent name="$PROJECT_DIR$/Greedy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.639. Decode Ways II">
-    <configuration default="false" name="629. K Inverse Pairs Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DynamicProgramming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode_Solution" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DynamicProgramming/629. K Inverse Pairs Array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="636. Exclusive Time of Functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode_Solution" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack/636. Exclusive Time of Functions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.599. Minimum Index Sum of Two Lists">
     <configuration default="false" name="632. Smallest Range" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,6 +235,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_Solution" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DynamicProgramming/639. Decode Ways II.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="650. 2 Keys Keyboard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DynamicProgramming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_Solution" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DynamicProgramming/650. 2 Keys Keyboard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="599. Minimum Index Sum of Two Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HashTable" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_Solution" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HashTable/599. Minimum Index Sum of Two Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -417,19 +408,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.629. K Inverse Pairs Array" />
-      <item index="1" class="java.lang.String" itemvalue="Python.636. Exclusive Time of Functions" />
-      <item index="2" class="java.lang.String" itemvalue="Python.632. Smallest Range" />
-      <item index="3" class="java.lang.String" itemvalue="Python.640. Solve the Equation" />
-      <item index="4" class="java.lang.String" itemvalue="Python.639. Decode Ways II" />
+      <item index="0" class="java.lang.String" itemvalue="Python.632. Smallest Range" />
+      <item index="1" class="java.lang.String" itemvalue="Python.640. Solve the Equation" />
+      <item index="2" class="java.lang.String" itemvalue="Python.639. Decode Ways II" />
+      <item index="3" class="java.lang.String" itemvalue="Python.650. 2 Keys Keyboard" />
+      <item index="4" class="java.lang.String" itemvalue="Python.599. Minimum Index Sum of Two Lists" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.639. Decode Ways II" />
-        <item index="1" class="java.lang.String" itemvalue="Python.640. Solve the Equation" />
-        <item index="2" class="java.lang.String" itemvalue="Python.632. Smallest Range" />
-        <item index="3" class="java.lang.String" itemvalue="Python.636. Exclusive Time of Functions" />
-        <item index="4" class="java.lang.String" itemvalue="Python.629. K Inverse Pairs Array" />
+        <item index="0" class="java.lang.String" itemvalue="Python.599. Minimum Index Sum of Two Lists" />
+        <item index="1" class="java.lang.String" itemvalue="Python.650. 2 Keys Keyboard" />
+        <item index="2" class="java.lang.String" itemvalue="Python.639. Decode Ways II" />
+        <item index="3" class="java.lang.String" itemvalue="Python.640. Solve the Equation" />
+        <item index="4" class="java.lang.String" itemvalue="Python.632. Smallest Range" />
       </list>
     </recent_temporary>
   </component>
@@ -447,15 +438,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="284" y="23" width="1152" height="661" extended-state="0" />
-    <editor active="true" />
+    <frame x="172" y="23" width="1152" height="671" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24955752" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36902654" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296501" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32368898" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24955752" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -485,11 +476,33 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/650. 2 Keys Keyboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/646. Maximum Length of Pair Chain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Math/640. Solve the Equation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HashTable/632. Smallest Range.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -497,7 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -615,7 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -623,15 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Math/640. Solve the Equation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" column="36" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -639,7 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -647,7 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -655,14 +655,88 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Math/640. Solve the Equation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="67" column="36" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trie/648. Replace Words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-915">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashTable/648. Replace Words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="101" column="28" selection-start-line="101" selection-start-column="28" selection-end-line="101" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DynamicProgramming/639. Decode Ways II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="73" column="57" selection-start-line="73" selection-start-column="57" selection-end-line="73" selection-end-column="57" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trie/421. Maximum XOR of Two Numbers in an Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/650. 2 Keys Keyboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/646. Maximum Length of Pair Chain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashTable/594. Longest Harmonious Subsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashTable/599. Minimum Index Sum of Two Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Math/598. Range Addition II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashTable/575. Distribute Candies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
           <folding />
         </state>
       </provider>
