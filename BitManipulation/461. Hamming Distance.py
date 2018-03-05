@@ -28,9 +28,8 @@ The above arrows point to positions where the corresponding bits are different.
 '''
 class Solution(object):
     def hammingDistance(self, x, y):
-        ret=0
-        ans=x ^ y
-        while(ans):
-            ret = ret+ans % 2
-            ans = ans>>1
-        return ret
+        cnt,n = 0,x^y
+        while(n):
+            n = n & (n-1)
+            cnt+=1
+        return cnt

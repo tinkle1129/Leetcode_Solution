@@ -2,31 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a45ce09-b3b2-47ea-b0ec-a25a96769e4c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Array/121. Best Time to Buy and Sell Stock.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Array/122. Best Time to Buy and Sell Stock II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Array/167. Two Sum II - Input array is sorted.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Array/169. Majority Element.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Array/747. Largest Number At Least Twice of Others.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BinarySearch/167. Two Sum II - Input array is sorted.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BitManipulation/136. Single Number.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/121. Best Time to Buy and Sell Stock.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Greedy/122. Best Time to Buy and Sell Stock II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HashTable/136. Single Number.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LinkedList/206. Reverse Linked List.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LinkedList/23. Merge k Sorted Lists.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LinkedList/234. Palindrome Linked List.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LinkedList/237. Delete Node in a Linked List.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LinkedList/328. Odd Even Linked List.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LinkedList/445. Add Two Numbers II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LinkedList/725. Split Linked List in Parts.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Math/168. Excel Sheet Column Title.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Math/169. Majority Element.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Math/172. Factorial Trailing Zeroes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Recursion/779. K-th Symbol in Grammar.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/String/125. Valid Palindrome.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/String/136. Single Number.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TwoPointers/167. Two Sum II - Input array is sorted.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BitManipulation/137. Single Number II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BitManipulation/169. Majority Element.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BitManipulation/190. Reverse Bits.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BitManipulation/191. Number of 1 Bits.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BitManipulation/201. Bitwise AND of Numbers Range.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BitManipulation/231. Power of Two.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BitManipulation/260. Single Number III.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BitManipulation/268. Missing Number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BitManipulation/371. Sum of Two Integers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BitManipulation/389. Find the Difference.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BitManipulation/393. UTF-8 Validation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BitManipulation/421. Maximum XOR of Two Numbers in an Array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BitManipulation/476. Number Complement.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BitManipulation/477. Total Hamming Distance.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BitManipulation/693. Binary Number with Alternating Bits.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BitManipulation/762. Prime Number of Set Bits in Binary Representation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BitManipulation/784. Letter Case Permutation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tp.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BitManipulation/461. Hamming Distance.py" afterPath="$PROJECT_DIR$/BitManipulation/461. Hamming Distance.py" />
     </list>
     <ignored path="Leetcode_Solution.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,11 +41,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="23. Merge k Sorted Lists.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LinkedList/23. Merge k Sorted Lists.py">
+      <file leaf-file-name="784. Letter Case Permutation.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BitManipulation/784. Letter Case Permutation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="57" column="118" selection-start-line="57" selection-start-column="118" selection-end-line="57" selection-end-column="118" />
+            <state relative-caret-position="191">
+              <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="78. Subsets.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BitManipulation/78. Subsets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="39" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -71,25 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HashTable/599. Minimum Index Sum of Two Lists.py" />
-        <option value="$PROJECT_DIR$/HashTable/575. Distribute Candies.py" />
-        <option value="$PROJECT_DIR$/HashTable/760. Find Anagram Mappings.py" />
-        <option value="$PROJECT_DIR$/String/657. Judge Route Circle.py" />
-        <option value="$PROJECT_DIR$/BitManipulation/461. Hamming Distance.py" />
-        <option value="$PROJECT_DIR$/Math/728. Self Dividing Numbers.py" />
-        <option value="$PROJECT_DIR$/Array/561. Array Partition I.py" />
-        <option value="$PROJECT_DIR$/Array/476. Number Complement.py" />
-        <option value="$PROJECT_DIR$/String/557. Reverse Words in a String III.py" />
-        <option value="$PROJECT_DIR$/Array/560. Subarray Sum Equals K.py" />
-        <option value="$PROJECT_DIR$/Array/724. Find Pivot Index.py" />
-        <option value="$PROJECT_DIR$/Brainteaser/292. Nim Game.py" />
-        <option value="$PROJECT_DIR$/Brainteaser/319. Bulb Switcher.py" />
-        <option value="$PROJECT_DIR$/Stack/682. Baseball Game.py" />
-        <option value="$PROJECT_DIR$/Tree/669. Trim a Binary Search Tree.py" />
-        <option value="$PROJECT_DIR$/Array/566. Reshape the Matrix.py" />
-        <option value="$PROJECT_DIR$/HashTable/463. Island Perimeter.py" />
-        <option value="$PROJECT_DIR$/Stack/496. Next Greater Element I.py" />
-        <option value="$PROJECT_DIR$/Math/762. Prime Number of Set Bits in Binary Representation.py" />
         <option value="$PROJECT_DIR$/String/521. Longest Uncommon Subsequence I.py" />
         <option value="$PROJECT_DIR$/Tree/104. Maximum Depth of Binary Tree.py" />
         <option value="$PROJECT_DIR$/Math/13. Roman to Integer.py" />
@@ -122,13 +108,32 @@
         <option value="$PROJECT_DIR$/LinkedList/234. Palindrome Linked List.py" />
         <option value="$PROJECT_DIR$/LinkedList/206. Reverse Linked List.py" />
         <option value="$PROJECT_DIR$/LinkedList/23. Merge k Sorted Lists.py" />
+        <option value="$PROJECT_DIR$/tp.py" />
+        <option value="$PROJECT_DIR$/BitManipulation/231. Power of Two.py" />
+        <option value="$PROJECT_DIR$/BitManipulation/268. Missing Number.py" />
+        <option value="$PROJECT_DIR$/BitManipulation/260. Single Number III.py" />
+        <option value="$PROJECT_DIR$/BitManipulation/137. Single Number II.py" />
+        <option value="$PROJECT_DIR$/BitManipulation/191. Number of 1 Bits.py" />
+        <option value="$PROJECT_DIR$/BitManipulation/190. Reverse Bits.py" />
+        <option value="$PROJECT_DIR$/BitManipulation/169. Majority Element.py" />
+        <option value="$PROJECT_DIR$/BitManipulation/371. Sum of Two Integers.py" />
+        <option value="$PROJECT_DIR$/BitManipulation/389. Find the Difference.py" />
+        <option value="$PROJECT_DIR$/BitManipulation/461. Hamming Distance.py" />
+        <option value="$PROJECT_DIR$/BitManipulation/477. Total Hamming Distance.py" />
+        <option value="$PROJECT_DIR$/BitManipulation/693. Binary Number with Alternating Bits.py" />
+        <option value="$PROJECT_DIR$/BitManipulation/762. Prime Number of Set Bits in Binary Representation.py" />
+        <option value="$PROJECT_DIR$/BitManipulation/476. Number Complement.py" />
+        <option value="$PROJECT_DIR$/BitManipulation/201. Bitwise AND of Numbers Range.py" />
+        <option value="$PROJECT_DIR$/BitManipulation/393. UTF-8 Validation.py" />
+        <option value="$PROJECT_DIR$/BitManipulation/421. Maximum XOR of Two Numbers in an Array.py" />
+        <option value="$PROJECT_DIR$/BitManipulation/784. Letter Case Permutation.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="352" />
-    <option name="y" value="23" />
-    <option name="width" value="1152" />
+    <option name="x" value="191" />
+    <option name="y" value="95" />
+    <option name="width" value="1277" />
     <option name="height" value="665" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -157,6 +162,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -185,27 +191,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Recursion" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Leetcode_Solution" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Leetcode_Solution" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LinkedList" />
+              <option name="myItemId" value="BitManipulation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,88 +220,88 @@
       <recent name="$PROJECT_DIR$/BitManipulation" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.445. Add Two Numbers II">
-    <configuration default="false" name="566. Reshape the Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.784. Letter Case Permutation">
+    <configuration default="false" name="tp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_Solution" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/566. Reshape the Matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="496. Next Greater Element I" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="260. Single Number III" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BitManipulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_Solution" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack/496. Next Greater Element I.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BitManipulation/260. Single Number III.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="747. Largest Number At Least Twice of Others" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="137. Single Number II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BitManipulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_Solution" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/747. Largest Number At Least Twice of Others.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BitManipulation/137. Single Number II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="779. K-th Symbol in Grammar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="371. Sum of Two Integers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BitManipulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_Solution" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/779. K-th Symbol in Grammar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BitManipulation/371. Sum of Two Integers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="445. Add Two Numbers II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="784. Letter Case Permutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BitManipulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_Solution" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedList/445. Add Two Numbers II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BitManipulation/784. Letter Case Permutation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -450,19 +441,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.566. Reshape the Matrix" />
-      <item index="1" class="java.lang.String" itemvalue="Python.496. Next Greater Element I" />
-      <item index="2" class="java.lang.String" itemvalue="Python.747. Largest Number At Least Twice of Others" />
-      <item index="3" class="java.lang.String" itemvalue="Python.779. K-th Symbol in Grammar" />
-      <item index="4" class="java.lang.String" itemvalue="Python.445. Add Two Numbers II" />
+      <item index="0" class="java.lang.String" itemvalue="Python.tp" />
+      <item index="1" class="java.lang.String" itemvalue="Python.260. Single Number III" />
+      <item index="2" class="java.lang.String" itemvalue="Python.137. Single Number II" />
+      <item index="3" class="java.lang.String" itemvalue="Python.371. Sum of Two Integers" />
+      <item index="4" class="java.lang.String" itemvalue="Python.784. Letter Case Permutation" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.445. Add Two Numbers II" />
-        <item index="1" class="java.lang.String" itemvalue="Python.779. K-th Symbol in Grammar" />
-        <item index="2" class="java.lang.String" itemvalue="Python.747. Largest Number At Least Twice of Others" />
-        <item index="3" class="java.lang.String" itemvalue="Python.496. Next Greater Element I" />
-        <item index="4" class="java.lang.String" itemvalue="Python.566. Reshape the Matrix" />
+        <item index="0" class="java.lang.String" itemvalue="Python.784. Letter Case Permutation" />
+        <item index="1" class="java.lang.String" itemvalue="Python.371. Sum of Two Integers" />
+        <item index="2" class="java.lang.String" itemvalue="Python.137. Single Number II" />
+        <item index="3" class="java.lang.String" itemvalue="Python.260. Single Number III" />
+        <item index="4" class="java.lang.String" itemvalue="Python.tp" />
       </list>
     </recent_temporary>
   </component>
@@ -483,15 +474,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="352" y="23" width="1152" height="665" extended-state="0" />
-    <editor active="true" />
+    <frame x="191" y="95" width="1277" height="665" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28495574" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3569721" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32723948" sideWeight="0.5141593" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10420475" sideWeight="0.16812749" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32368898" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32723948" sideWeight="0.4858407" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10420475" sideWeight="0.8318725" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24955752" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -521,189 +512,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Math/7 Reverse Integer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/String/13. Roman to Integer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Math/13. Roman to Integer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/104. Maximum Depth of Binary Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/String/521. Longest Uncommon Subsequence I.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/26. Remove Duplicates from Sorted Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TwoPointers/26. Remove Duplicates from Sorted Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TwoPointers/27. Remove Element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/27. Remove Element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/28. Implement strStr().py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TwoPointers/28. Implement strStr().py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearch/35. Search Insert Position.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/35. Search Insert Position.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/53. Maximum Subarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/String/38. Count and Say.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/88. Merge Sorted Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TwoPointers/88. Merge Sorted Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/100. Same Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Depth-first Search/100. Same Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/746. Min Cost Climbing Stairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/746. Min Cost Climbing Stairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/747. Largest Number At Least Twice of Others.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/121. Best Time to Buy and Sell Stock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/121. Best Time to Buy and Sell Stock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/122. Best Time to Buy and Sell Stock II.py" />
-    <entry file="file://$PROJECT_DIR$/Greedy/122. Best Time to Buy and Sell Stock II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/String/125. Valid Palindrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/String/136. Single Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -807,7 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
           <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="46" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -815,7 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -823,7 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -831,7 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -839,7 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -847,7 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -855,7 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -863,14 +664,228 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python2.7/bisect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/59. Spiral Matrix II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/54. Spiral Matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="73" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/160. Intersection of Two Linked Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/138. Copy List with Random Pointer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="44" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LinkedList/23. Merge k Sorted Lists.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
+        <state relative-caret-position="249">
           <caret line="57" column="118" selection-start-line="57" selection-start-column="118" selection-end-line="57" selection-end-column="118" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/342. Power of Four.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/268. Missing Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/231. Power of Two.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/191. Number of 1 Bits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/190. Reverse Bits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/137. Single Number II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/169. Majority Element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/260. Single Number III.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/371. Sum of Two Integers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/389. Find the Difference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/401. Binary Watch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/461. Hamming Distance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/693. Binary Number with Alternating Bits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/477. Total Hamming Distance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/476. Number Complement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/201. Bitwise AND of Numbers Range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/393. UTF-8 Validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/421. Maximum XOR of Two Numbers in an Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/762. Prime Number of Set Bits in Binary Representation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/78. Subsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="39" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BitManipulation/784. Letter Case Permutation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
           <folding />
         </state>
       </provider>
