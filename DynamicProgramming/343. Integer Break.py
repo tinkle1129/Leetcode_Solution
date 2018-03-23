@@ -28,3 +28,5 @@ class Solution(object):
             ans=ans*3
             n=n-3
         return ans*n
+
+        

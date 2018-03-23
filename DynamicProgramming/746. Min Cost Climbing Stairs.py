@@ -36,3 +36,6 @@ class Solution(object):
             dp.append(min(dp[-1],dp[-2])+cost[idx])
             idx+=1
         return dp[-1]
+
+S= Solution()
+print S.minCostClimbingStairs([10,15,20])

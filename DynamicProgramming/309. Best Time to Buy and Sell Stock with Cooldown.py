@@ -35,4 +35,8 @@ class Solution(object):
             buy = max(prev_sell - price, prev_buy)
             prev_sell = sell
             sell = max(prev_buy + price, prev_sell)
+            print prev_buy,prev_sell,buy,sell
         return sell
+
+S = Solution()
+print S.maxProfit([1,2,3,0,2])
