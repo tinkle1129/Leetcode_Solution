@@ -40,3 +40,4 @@ class Solution(object):
 
 S = Solution()
 print S.countSubstrings('aabba')
+
