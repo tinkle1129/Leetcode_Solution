@@ -44,6 +44,7 @@ class Solution(object):
         if q == m - 1:
             return n - m
         return -1
+    
     def compute_prefix_func(self,pattern):
         '''
         :param pattern: str

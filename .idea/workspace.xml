@@ -2,26 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a45ce09-b3b2-47ea-b0ec-a25a96769e4c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Array/532. K-diff Pairs in an Array.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Array/804. Unique Morse Code Words.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Depth-first Search/104. Maximum Depth of Binary Tree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Depth-first Search/513. Find Bottom Left Tree Value.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Depth-first Search/515. Find Largest Value in Each Tree Row.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Depth-first Search/690. Employee Importance.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Depth-first Search/695. Max Area of Island.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Depth-first Search/733. Flood Fill.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Greedy/763. Partition Labels.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Math/462. Minimum Moves to Equal Array Elements II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Math/537. Complex Number Multiplication.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Math/553. Optimal Division.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Math/592. Fraction Addition and Subtraction.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Math/781. Rabbits in Forest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Math/789. Escape The Ghosts.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TwoPointers/524. Longest Word in Dictionary through Deleting.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TwoPointers/763. Partition Labels.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Array/832. Flipping an Image.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BinarySearch/719. Find K-th Smallest Pair Distance.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BinarySearch/744. Find Smallest Letter Greater Than Target.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DynamicProgramming/95. Unique Binary Search Trees II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HashTable/454. 4Sum II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Stack/84. Largest Rectangle in Histogram.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DynamicProgramming/647. Palindromic Substrings.py" afterPath="$PROJECT_DIR$/DynamicProgramming/647. Palindromic Substrings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TwoPointers/344. Reverse String.py" afterPath="$PROJECT_DIR$/TwoPointers/344. Reverse String.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Array/28. Implement strStr().py" afterPath="$PROJECT_DIR$/Array/28. Implement strStr().py" />
     </list>
     <ignored path="Leetcode_Solution.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="763. Partition Labels.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TwoPointers/763. Partition Labels.py">
+      <file leaf-file-name="95. Unique Binary Search Trees II.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DynamicProgramming/95. Unique Binary Search Trees II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
+            <state relative-caret-position="64">
+              <caret line="67" column="14" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -66,12 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Stack/103. Binary Tree Zigzag Level Order Traversal.py" />
-        <option value="$PROJECT_DIR$/Stack/232. Implement Queue using Stacks.py" />
-        <option value="$PROJECT_DIR$/Stack/150. Evaluate Reverse Polish Notation.py" />
-        <option value="$PROJECT_DIR$/Stack/173. Binary Search Tree Iterator.py" />
-        <option value="$PROJECT_DIR$/Stack/456. 132 Pattern.py" />
-        <option value="$PROJECT_DIR$/DynamicProgramming/746. Min Cost Climbing Stairs.py" />
         <option value="$PROJECT_DIR$/DynamicProgramming/121. Best Time to Buy and Sell Stock.py" />
         <option value="$PROJECT_DIR$/DynamicProgramming/714. Best Time to Buy and Sell Stock with Transaction Fee.py" />
         <option value="$PROJECT_DIR$/DynamicProgramming/309. Best Time to Buy and Sell Stock with Cooldown.py" />
@@ -117,12 +99,18 @@
         <option value="$PROJECT_DIR$/Array/532. K-diff Pairs in an Array.py" />
         <option value="$PROJECT_DIR$/TwoPointers/763. Partition Labels.py" />
         <option value="$PROJECT_DIR$/TwoPointers/524. Longest Word in Dictionary through Deleting.py" />
+        <option value="$PROJECT_DIR$/BinarySearch/744. Find Smallest Letter Greater Than Target.py" />
+        <option value="$PROJECT_DIR$/HashTable/454. 4Sum II.py" />
+        <option value="$PROJECT_DIR$/BinarySearch/719. Find K-th Smallest Pair Distance.py" />
+        <option value="$PROJECT_DIR$/Stack/84. Largest Rectangle in Histogram.py" />
+        <option value="$PROJECT_DIR$/Array/832. Flipping an Image.py" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/95. Unique Binary Search Trees II.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="175" />
-    <option name="y" value="74" />
+    <option name="x" value="260" />
+    <option name="y" value="23" />
     <option name="width" value="1152" />
     <option name="height" value="661" />
   </component>
@@ -151,7 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -184,8 +171,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Leetcode_Solution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Leetcode_Solution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DynamicProgramming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -210,75 +212,7 @@
       <recent name="$PROJECT_DIR$/TwoPointers" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.695. Max Area of Island">
-    <configuration default="false" name="43. Multiply Strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode_Solution" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/43. Multiply Strings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="462. Minimum Moves to Equal Array Elements II" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode_Solution" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/462. Minimum Moves to Equal Array Elements II.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="781. Rabbits in Forest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode_Solution" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/781. Rabbits in Forest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="592. Fraction Addition and Subtraction" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode_Solution" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/592. Fraction Addition and Subtraction.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.95. Unique Binary Search Trees II">
     <configuration default="false" name="695. Max Area of Island" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,6 +226,74 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_Solution" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Depth-first Search/695. Max Area of Island.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="744. Find Smallest Letter Greater Than Target" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinarySearch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_Solution" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinarySearch/744. Find Smallest Letter Greater Than Target.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="719. Find K-th Smallest Pair Distance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinarySearch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_Solution" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinarySearch/719. Find K-th Smallest Pair Distance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="84. Largest Rectangle in Histogram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_Solution" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack/84. Largest Rectangle in Histogram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="95. Unique Binary Search Trees II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DynamicProgramming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_Solution" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DynamicProgramming/95. Unique Binary Search Trees II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -431,19 +433,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.43. Multiply Strings" />
-      <item index="1" class="java.lang.String" itemvalue="Python.462. Minimum Moves to Equal Array Elements II" />
-      <item index="2" class="java.lang.String" itemvalue="Python.781. Rabbits in Forest" />
-      <item index="3" class="java.lang.String" itemvalue="Python.592. Fraction Addition and Subtraction" />
-      <item index="4" class="java.lang.String" itemvalue="Python.695. Max Area of Island" />
+      <item index="0" class="java.lang.String" itemvalue="Python.695. Max Area of Island" />
+      <item index="1" class="java.lang.String" itemvalue="Python.744. Find Smallest Letter Greater Than Target" />
+      <item index="2" class="java.lang.String" itemvalue="Python.719. Find K-th Smallest Pair Distance" />
+      <item index="3" class="java.lang.String" itemvalue="Python.84. Largest Rectangle in Histogram" />
+      <item index="4" class="java.lang.String" itemvalue="Python.95. Unique Binary Search Trees II" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.695. Max Area of Island" />
-        <item index="1" class="java.lang.String" itemvalue="Python.592. Fraction Addition and Subtraction" />
-        <item index="2" class="java.lang.String" itemvalue="Python.781. Rabbits in Forest" />
-        <item index="3" class="java.lang.String" itemvalue="Python.462. Minimum Moves to Equal Array Elements II" />
-        <item index="4" class="java.lang.String" itemvalue="Python.43. Multiply Strings" />
+        <item index="0" class="java.lang.String" itemvalue="Python.95. Unique Binary Search Trees II" />
+        <item index="1" class="java.lang.String" itemvalue="Python.84. Largest Rectangle in Histogram" />
+        <item index="2" class="java.lang.String" itemvalue="Python.719. Find K-th Smallest Pair Distance" />
+        <item index="3" class="java.lang.String" itemvalue="Python.744. Find Smallest Letter Greater Than Target" />
+        <item index="4" class="java.lang.String" itemvalue="Python.695. Max Area of Island" />
       </list>
     </recent_temporary>
   </component>
@@ -464,26 +466,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="175" y="74" width="1152" height="661" extended-state="0" />
+    <frame x="260" y="23" width="1152" height="661" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28141594" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32780847" sideWeight="0.24690266" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24861878" sideWeight="0.26283187" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3235832" sideWeight="0.49646017" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24861878" sideWeight="0.73716813" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24955752" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39963168" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290441" sideWeight="0.75309736" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39963168" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -502,49 +504,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/446. Arithmetic Slices II - Subsequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/72. Edit Distance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-274">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/583. Delete Operation for Two Strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/712. Minimum ASCII Delete Sum for Two Strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/646. Maximum Length of Pair Chain.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicProgramming/343. Integer Break.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Depth-first Search/650. 2 Keys Keyboard.py" />
     <entry file="file://$PROJECT_DIR$/DynamicProgramming/494. Target Sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -795,7 +754,83 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwoPointers/344. Reverse String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwoPointers/345. Reverse Vowels of a String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/532. K-diff Pairs in an Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Greedy/763. Partition Labels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwoPointers/524. Longest Word in Dictionary through Deleting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwoPointers/763. Partition Labels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinarySearch/436. Find Right Interval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinarySearch/744. Find Smallest Letter Greater Than Target.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashTable/454. 4Sum II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinarySearch/719. Find K-th Smallest Pair Distance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/84. Largest Rectangle in Histogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="31" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -807,23 +842,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TwoPointers/344. Reverse String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TwoPointers/345. Reverse Vowels of a String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/532. K-diff Pairs in an Array.py">
+    <entry file="file://$PROJECT_DIR$/Array/832. Flipping an Image.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
@@ -831,26 +850,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Greedy/763. Partition Labels.py">
+    <entry file="file://$PROJECT_DIR$/DynamicProgramming/95. Unique Binary Search Trees II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TwoPointers/524. Longest Word in Dictionary through Deleting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TwoPointers/763. Partition Labels.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
+        <state relative-caret-position="64">
+          <caret line="67" column="14" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
           <folding />
         </state>
       </provider>
